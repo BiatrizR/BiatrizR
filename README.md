@@ -1,6 +1,6 @@
 ## Hello I'm Bia 📌
 
-* 💼👨‍💻 I’m currently working on programming and development instructor;
+* 💼💻 I’m currently working on programming and development instructor;
 * 📚🎓 I’m currently learning Bachelor of Information Technology;
    ##
    ### My updates here 🚀:
