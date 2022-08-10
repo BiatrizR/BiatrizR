@@ -15,7 +15,7 @@
    
   ### Languages, frameworks and other development tools that I'm interested in 👨‍💻:
     
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block" align ="center"><br>
   <img align="center" alt="Bia-Js" height="28" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Bia-Lua" height="32" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg">
   <img align="center" alt="Bia-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
