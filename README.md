@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 
 
-<!--
-**BiatrizR/BiatrizR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼👨‍💻 I’m currently working on programming and development instructor;
+- 📚🎓 I’m currently learning Bachelor of Information Technology;
+- 🧮💻 Languages, frameworks and other development tools that I'm interested in:
+    * JavaScript 💛;
+    * Java ☕;
+    * Python 🐍;
+    * PHP 🐘;
+    * Lua 🌚;
+    * React 📱;
+    * React Native 📲;
+    * Html/Css🎫...
+  
+    
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
