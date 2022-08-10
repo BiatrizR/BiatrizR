@@ -29,6 +29,8 @@
   <img align="right" alt="Bia-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/85/5d/c5/855dc5ff4144c6a8680d2ad4ca7e5d22.jpg">
 </div>
 
-![Snake animation](https://github.com/BiatrizR/BiatrizR/blob/output/github-contribution-grid-snake.svg)
+<div>
+ ![Snake animation](https://github.com/BiatrizR/BiatrizR/blob/output/github-contribution-grid-snake.svg)
+</div>
     
 
