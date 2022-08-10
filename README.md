@@ -27,7 +27,7 @@
   <img align="center" alt="Bia-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   
       
-  <img align="right" alt="Bia-pic" height="150" style="border-radius:50px;" src="">
+  <img align="right" alt="Bia-pic" height="150" style="border-radius:50px;" src="file:///C:/Users/Lenovo/Downloads/AvatarMaker.svg">
 </div>
     
 
