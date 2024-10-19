@@ -4,10 +4,10 @@
 * 📚🎓 I’m currently learning Bachelor of Information Technology;
    ##
    ### My updates here 🚀:
-     <div align="center">
-  <a href="https://github.com/BiatrizR">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiatrizR&layout=compact&langs_count=7&theme=onedark"/>
-</div>
+  <div>
+     <a href="https://github.com/BiatrizR">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiatrizR&layout=compact&langs_count=7&theme=onedark"/>
+  </div>
   ##
    
   ### Languages, frameworks and other development tools that I'm interested in 👨‍💻:
